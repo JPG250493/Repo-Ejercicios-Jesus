@@ -46,8 +46,6 @@ __pycache__/
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
 **/*.ipynb_checkpoints/
-01_Workout/
-02_Ejercicios_Workout/
 
 
 # ============================================
