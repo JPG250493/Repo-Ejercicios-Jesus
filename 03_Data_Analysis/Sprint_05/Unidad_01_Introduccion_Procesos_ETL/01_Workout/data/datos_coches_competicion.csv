@@ -1,0 +1,54 @@
+Categoria,Modelo,Marca,Año,Motor,Cilindrada,Potencia,Peso,Traccion,VelocidadMax,Neumaticos,Victorias,Poles,VueltasRapidas 
+F1,MP4/4,McLaren,1988,V6 Turbo,1494,650,540,RWD,340,Goodyear,15,15,15 
+F1,FW14B,Willams,1992,V10,3493,750,505,RWD,360,Pirelli,10,7,6 
+F1,RS10,Renault,1979,V6 Turbo,1492,520,590,RWD,330,Michelin,3,2,1 
+F1,STR14,STR,2019,V6 Turbo,1600,900,743,RWD,360,Pirelli,0,0,0 
+DTM,C63 AMG,Mercedes,2016,V8,4000,500,1110,RWD,280,Hankook,4,3,2 
+DTM,RS5, Audi,2018,V8,4000,500,1125,RWD,285,Hankook,5,4,3 
+DTM,320i,BMW,2008,I6,3000,490,1130,RWD,275,Dunlop,2,1,1 
+DTM,AMG C-Klasse,Mercedes,2005,V8,4000,460,1150,RWD,270,Hankook,3,2,2 
+BTCC,Civic Type R,Honda,2019,I4,2000,310,1150,FWD,245,Dunlop,1,0,1 
+BTCC,MG ZS,MG,2001,I4,2000,270,1250,FWD,240,Avon,0,0,0 
+BTCC,Impala,Chevrolet,1994,V8,3500,320,1250,RWD,250,Avon,2,1,0 
+BTCC,320i,BMW,2005,I4,2000,270,1180,RWD,240,Dunlop,1,0,1 
+Grupo C,Sauber C9,Mercedes,1989,V8 TwinTurbo,5000,720,880,RWD,380,Goodyear,5,4,3 
+Grupo C,Jaguar XJR-9,Jaguar,1988,V12,7200,750,900,RWD,370,Goodyear,3,2,2 
+Grupo C,Mercedes C11,Mercedes,1990,V12 Turbo,5000,730,900,RWD,390,Goodyear,6,4,4 
+Grupo C,Porsche 962C,Porsche,1986,Flat6 Turbo,3000,620,900,RWD,340,Michelin,7,5,5 
+Grupo B,Delta S4,Lancia,1985,I4 Turbo,1759,480,890,AWD,260,Pirelli,0,0,0 
+Grupo B,Rally 037,Lancia,1982,I4,2140,285,960,RWD,220,Pirelli,2,0,1 
+Grupo B,RS200, Ford,1986,I4 Turbo,1796,450,950,AWD,250,Pirelli,0,0,0 
+Grupo B,Sport Quattro, Audi,1984,I5 Turbo,2144,450,1100,AWD,240,Pirelli,3,1,2 
+GT1,McLaren F1 GTR,McLaren,1995,V12,6064,627,900,RWD,330,Goodyear,4,2,3 
+GT1,Porsche 911 GT1,Porsche,1997,Flat6 TwinTurbo,3600,600,930,RWD,330,Michelin,3,1,2 
+GT1,Mercedes CLK-GTR,Mercedes,1998,V12,6000,600,950,RWD,320,Hankook,5,3,3 
+GT1,Nissan R390 GT1,Nissan,1998,V8 Turbo,3496,650,940,RWD,315,Michelin,2,1,2 
+Grupo4,Lancia Stratos HF,Lancia,1974,V6,2418,270,830,RWD,230,Pirelli,6,5,4 
+Grupo4,Porsche 911 Carrera RS,Porsche,1973,Flat6,2494,260,950,RWD,245,Michelin,3,2,1 
+Grupo4,Ford Escort RS1600,Ford,1970,I4,1599,185,900,RWD,210,Dunlop,2,1,0 
+Grupo4,Alfa Romeo Giulia GTA,Alfa Romeo,1965,I4,1570,170,750,RWD,205,Michelin,4,3,2 
+Grupo5,Porsche 935,Porsche,1976,Flat6 Turbo,2994,660,1020,RWD,330,Michelin,7,5,4 
+Grupo5,BMW 320 Turbo,BMW,1977,I4 Turbo,1990,470,980,RWD,320,Goodyear,5,4,3 
+Grupo5,Ford Capri Zakspeed,Ford,1979,V6 Turbo,1993,460,1020,RWD,310,Goodyear,3,2,2 
+Grupo5,Mazda RX-7, Mazda,1980,Rotary,1308,380,940,RWD,300,Michelin,2,1,1 
+F1,Lotus 97T,Lotus,1985,V6 Turbo,1499,650,540,RWD,335,Goodyear,5,3,4 
+F1,Brabham BT52,Brabham,1983,V6 Turbo,1496,650,540,RWD,330,Michelin,3,2,2 
+F1,Lotus 79,Lotus,1978,Ford Cosworth V8,2993,500,585,RWD,320,Goodyear,7,6,6 
+F1,Ferrari F2004,Ferrari,2004,V10,3000,950,605,RWD,370,Bridgestone,15,12,10 
+DTM,RS4 Avant,Audi,2003,V8,4000,460,1180,RWD,275,Hankook,2,1,1 
+DTM,C63 DTM,Mercedes,2015,V8,4000,500,1120,RWD,280,Hankook,6,4,4 
+DTM,320si,BMW,2010,I4,2000,300,1150,RWD,250,Dunlop,3,2,1 
+BTCC,Mondeo Ford, Ford,2007,I4,2000,270,1180,FWD,240,Dunlop,1,1,1 
+BTCC,Civic EK, Honda,1998,I4,1600,185,1100,FWD,225,Avon,0,0,0 
+BTCC,Focus ST, Ford,2010,I4,2000,305,1140,FWD,245,Dunlop,2,1,1 
+Grupo C,Nissan R90CK,Nissan,1990,V8 Turbo,3497,650,890,RWD,360,Goodyear,2,1,1 
+Grupo C,Porsche 956,Porsche,1983,Flat6 Turbo,2600,620,850,RWD,350,Michelin,5,3,3 
+Grupo B,Metro 6R4,Rover,1986,V6,3494,410,940,AWD,245,Pirelli,1,0,1 
+Grupo B,Peugeot 205 T16,Peugeot,1984,I4 Turbo,1775,400,950,AWD,250,Pirelli,3,2,2 
+GT1,Jaguar XJ220 GT, Jaguar,1993,V6 Turbo,3498,650,940,RWD,335,Michelin,3,1,2 
+GT1,Porsche 911 GT1 Evo,Porsche,1998,Flat6 TwinTurbo,3600,640,930,RWD,330,Michelin,4,2,3 
+Grupo4,Fiat 131 Abarth,Fiat,1976,I4,1995,205,930,RWD,215,Pirelli,2,1,1 
+Grupo4,Opel Manta 400,Opel,1985,I4 Turbo,1998,340,1020,RWD,225,Pirelli,1,1,0 
+Grupo5,Chevrolet Camaro Z28,Chevrolet,1978,V8,5729,490,1100,RWD,305,Goodyear,3,2,1 
+Grupo5,Ford Mustang Turbo,Ford,1979,V8,5000,480,1080,RWD,310,Goodyear,2,1,1 
+Grupo5,Datsun 280ZX Turbo,Nissan,1982,I6 Turbo,2800,420,1020,RWD,300,Michelin,1,1,0
