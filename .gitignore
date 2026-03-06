@@ -106,3 +106,21 @@ Project_Break_I_EDA/01_Proyecto_EDA.ipynb
 *.pdf
 *.html
 *.mp4
+Proy ML (Pkm)/main.ipynb
+Proy ML (Pkm)/README.md
+Proy ML (Pkm)/src/data_sample/combats.csv
+Proy ML (Pkm)/src/data_sample/pokemon.csv
+Proy ML (Pkm)/src/data_sample/PokemonGymLeaders.csv
+Proy ML (Pkm)/src/notebooks/01 - MiniEDA.ipynb
+Proy ML/main.ipynb
+Proy ML/README.md
+Proy ML/src/data_sample/processed/datos_procesados.pkl
+Proy ML/src/data_sample/raw/autoscout24-germany-dataset.csv
+Proy ML/src/data_sample/raw/autoscout24-germany-dataset.csv.zip
+Proy ML/src/img/Portada - EDA.png
+Proy ML/src/img/Portada - Modelado.png
+Proy ML/src/img/Portada.png
+Proy ML/src/models/modelo_tasacion_coches_v1.joblib
+Proy ML/src/models/modelo_tasacion_final.joblib
+Proy ML/src/notebooks/01 - MiniEDA.ipynb
+Proy ML/src/notebooks/02 - Modelado.ipynb
